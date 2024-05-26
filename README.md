@@ -24,7 +24,7 @@ SQLite
 Installation
 Clone the repository:
 =======================================================
-git clone https://github.com/your-username/real-estate-management.git
+https://github.com/Jay-shankar2002/Presidio
 cd real-estate-management
 
 Set up a virtual environment and activate it:
